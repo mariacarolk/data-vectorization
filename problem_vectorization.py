@@ -10,6 +10,7 @@ data = None
 with open(file='traffic.csv', mode='r', encoding='utf8') as fp:
     #skip the header
     fp.readline()
+
     #put the lines in a string
     data = fp.read()
 

@@ -1,4 +1,4 @@
-hour;bus_stoped;broken_truck;vehicle_excess;accident_victim;running_over;fire_vehicles;occurrence_freight;incident__dangerous_freight;lack_electricity;fire;flooding;manifestations;defect_trolleybuses;tree_road;semaphore_off;intermittent_emaphore;slowness_traffic_%
+hour;bus_stoped;broken_truck;vehicle_excess;accident_victim;running_over;fire_vehicles;occurrence_freight;incident__dangerous_freight;lack_electricity;fire;flooding;manifestations;defect_trolleybuses;tree_road;semaphore_off;intermittent_semaphore;slowness_traffic_%
 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4,1
 2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6,6
 3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8,7
