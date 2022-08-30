@@ -14,7 +14,7 @@ with open(file='traffic.csv', mode='r', encoding='utf8') as fp:
     #put the lines in a string
     data = fp.read()
 
-# -- analytics
+#analytics - test
 day = 14
 incidents = 0
 incident_by_day = dict()
