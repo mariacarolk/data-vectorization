@@ -6,7 +6,7 @@ import time
 inicial_time = time.time()
 
 data = None
-
+#teste
 with open(file='traffic.csv', mode='r', encoding='utf8') as fp:
     #skip the header
     fp.readline()
